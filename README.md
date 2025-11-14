@@ -100,3 +100,22 @@ Notebook 最终得到：
 例如某演员在 Comedy、Action、Drama 中的平均 IMDB 分别是多少。
 
 ⭐ 2. 可筛选高评分演员
+
+
+#### 7. 如何运行项目（How to Run）
+1. 安装依赖
+pip install pandas numpy
+
+或根据 requirements.txt：
+
+pip install -r requirements.txt
+
+2. 打开 Notebook
+jupyter notebook
+
+打开：
+
+04 项目实战 _ 整理Netflix电影演员评分数据（完成版）.ipynb
+
+
+即可完整复现流程。
