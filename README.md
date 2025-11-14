@@ -103,14 +103,16 @@ Notebook 最终得到：
 
 
 #### 7. 如何运行项目（How to Run）
-1. 安装依赖
+1 安装依赖
+
 pip install pandas numpy
 
 或根据 requirements.txt：
 
 pip install -r requirements.txt
 
-2. 打开 Notebook
+2 打开 Notebook
+
 jupyter notebook
 
 打开：
